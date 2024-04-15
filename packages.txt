@@ -1,0 +1,17 @@
+numpy
+pandas
+jupyter
+matplotlib
+selenium
+webdriver-manager
+prettytable
+openrouteservice
+xlwt
+openpyxl
+geopandas
+requests
+scikit-learn
+seaborn
+plotly
+PyPDF2
+opencv-python
