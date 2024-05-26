@@ -1,9 +1,11 @@
 ## Documentation
 
-install libraries with packages.txt
+install libraries with mlpenv.yml
 
-run form same directory:
-conda install --file packages.txt
+run form code directory:
+conda env create -f tf_env.yml
 
-get list of all installed libraries
-conda list
+
+The setup of a MySQL server and MySQL Workbench are needed to import of the sql database. The import of the database import_MySQL.sql is explained in the pdf Import_MySQL_db
+
+Additionally the chromedriver has to be installed and referenced in the python notebook.
